@@ -16,8 +16,8 @@ table {
     table th {
         text-align: left;
         padding: 0.5em 1em 0.5em 1em;
-        color: #fff;
-        background: #222729 url("images/overlay.png");
+        color: #8eabbe;
+        background: 8eabbe url("images/overlay.png");
     }
 
     table thead {
