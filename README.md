@@ -17,7 +17,7 @@ Number and name of feature: Feature #2: Modify the contents
 
 Estimate of time needed to complete: 2 hr
 
-Start time: _____
+Start time: 745
 
 Finish time: _____
 
